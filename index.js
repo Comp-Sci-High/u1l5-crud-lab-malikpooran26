@@ -1,10 +1,11 @@
 // ARRAY SECTION
 // Task 1: Create an empty array called playlist
-
+let playlist[""]
 
 // Task 2: Push 3 songs to the playlist array
-
-
+playlist.push = "the lazy song"
+playlist.push = "let me love you"
+playlist.push = "No guidance"
 // Task 3: Update the value of the last element to be "Test"
 
 
